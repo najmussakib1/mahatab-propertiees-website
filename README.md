@@ -64,7 +64,7 @@
 | **API** | Next.js API routes (REST) |
 | **Styling** | CSS / Tailwind CSS *(edit to match your setup)* |
 | **Animation** | CSS transitions and scroll-based animation *(add your library, e.g. Framer Motion)* |
-| **Hosting** | cPanel Node.js hosting |
+| **Hosting** | [Hostnil](https://hostnil.com) with cPanel (Node.js App) |
 
 </div>
 
@@ -248,6 +248,8 @@ Good rankings come from many things working together. This project covers the te
 
 ## Deployment on cPanel
 
+The website is deployed on **Hostnil** using **cPanel** with its Node.js App feature.
+
 <details>
 <summary><b>Step-by-step</b></summary>
 
@@ -299,10 +301,21 @@ Copyright © Mahatab Properties Limited. All rights reserved.
 
 <div align="center">
 
-### Contact
+<h1>Contact</h1>
 
-**Mahatab Properties Limited**
-[mahatabpropertieslimited.com](https://mahatabpropertieslimited.com)
+<h2>MD. NAJMUS SAKIB</h2>
+
+<h3>Managing Director, Mahatab Properties Limited</h3>
+
+<h2>📧 <a href="mailto:sakibthoha5@gmail.com">sakibthoha5@gmail.com</a></h2>
+
+<h2>📞 <a href="tel:+8801708908960">01708908960</a></h2>
+
+<h3>🌐 <a href="https://mahatabpropertieslimited.com">mahatabpropertieslimited.com</a></h3>
+
+<sub>Hosted on Hostnil with cPanel</sub>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=888888&center=true&vCenter=true&width=460&lines=Thanks+for+visiting!;Star+this+repo+if+you+like+it." alt="Footer typing animation" />
 
