@@ -303,15 +303,13 @@ Copyright © Mahatab Properties Limited. All rights reserved.
 
 <h1>Contact</h1>
 
-<h2>MD. NAJMUS SAKIB</h2>
+<h4>MD. NAJMUS SAKIB</h4>
 
-<h3>Managing Director, Mahatab Properties Limited</h3>
+<h6>📧 <a href="mailto:sakibthoha5@gmail.com">sakibthoha5@gmail.com</a></h6>
 
-<h2>📧 <a href="mailto:sakibthoha5@gmail.com">sakibthoha5@gmail.com</a></h2>
+<h6>📞 <a href="tel:+8801708908960">01708908960</a></h6>
 
-<h2>📞 <a href="tel:+8801708908960">01708908960</a></h2>
-
-<h3>🌐 <a href="https://mahatabpropertieslimited.com">mahatabpropertieslimited.com</a></h3>
+<h6>🌐 <a href="https://mahatabpropertieslimited.com">mahatabpropertieslimited.com</a></h6>
 
 <sub>Hosted on Hostnil with cPanel</sub>
 
